@@ -38,7 +38,7 @@ $ sudo apt-get install mysql-workbench-community
 
 打开 Workbench，程序已经添加了默认的连接，点击打开：
 
-<img alt="2.1.png" width="600" src="./imgs/2.1.drawio.png"/>
+<img alt="2.1.png" width="600" src="./imgs/2.x1.drawio.png"/>
 
 2. 填写连接信息，测试连接，并保存：
 
